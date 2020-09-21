@@ -1,4 +1,8 @@
 # domain_check
+This script uses Godaddy API, so you will need 
+Godaddy developer key and secret
+https://developer.godaddy.com/
+
 Script for domain checking availability
 
 This script can be used for checking any number of letters domain and any extensions

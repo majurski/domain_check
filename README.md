@@ -1,9 +1,14 @@
+# Script for domain availability check
+
 # domain_check
 This script uses Godaddy API, so you will need 
 Godaddy developer key and secret
 https://developer.godaddy.com/
 
-Script for domain checking availability
+Original script can be found here:
+https://www.8bitavenue.com/godaddy-domain-name-api-in-python/
+But it`s purpose is to check any sequences from list of words.
+My interpretation is for all possible words, that can be generated from English alphabet.
 
 This script can be used for checking any number of letters domain and any extensions
 

@@ -153,15 +153,7 @@ class Chunkers:
         inx += 1
         print("Number of domains found ", len(found_domains))
         print("Domains found")
-        for i in found_domains:
-            if i not in sorted_domains:
-                sorted_domains[i] = len(i)
-
-        sorted_domains = dict(sorted(sorted_domains.items(), key=lambda kv: kv[0]))
-
-        print("Sorted by domain name:")
-        for k, v in sorted_domains.items():
-            print(f"{k}")
+        print(found_domains)
 
 
 if __name__ == "__main__":

@@ -20,6 +20,6 @@ for i in alph:
                     word = i + b + c + d
                     keywords.append(word)
 
-2. Add desired domain extension in the extensions file
+2. Add desired domain extensions.txt in the extensions file
 
 Thast`s all.

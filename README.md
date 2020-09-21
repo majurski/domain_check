@@ -6,11 +6,12 @@ https://developer.godaddy.com/
 
 Original script can be found here:
 https://www.8bitavenue.com/godaddy-domain-name-api-in-python/
-But it`s purpose is to check any sequences from list of words.
+But the purpose of the original is to check any sequences from list of words.
+
 My interpretation is for all possible words, that can be generated from English alphabet.
+This script can be used for checking any number of letters domain and any extensions.
 
-This script can be used for checking any number of letters domain and any extensions
-
+# How to use it:
 1. Change the number of cylces for more letters.
 for i in alph:
     for b in alph:

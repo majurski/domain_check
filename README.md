@@ -1,6 +1,5 @@
 # Script for domain availability check
 
-# domain_check
 This script uses Godaddy API, so you will need 
 Godaddy developer key and secret
 https://developer.godaddy.com/
